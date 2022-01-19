@@ -1,0 +1,20 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 48px;
+}
+
+.page-heading {
+    font-size: 56px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    height: auto;
+    width: 350px;
+}
